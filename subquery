@@ -1,0 +1,17 @@
+Types of subqueries in SQL.
+
+💡A subquery, is a query placed within another SQL query.
+
+·     A subquery may occur in:
+• SELECT clause
+• FROM clause
+• WHERE clause
+
+·     Subquery can be nested inside a SELECT, INSERT, UPDATE, or DELETE statement or inside another subquery.
+ 
+💡Types of Subqueries:
+1. Single Row Subquery - Returns zero or one row in results.
+2. Multiple Row Subquery - Returns one or more rows in results.
+3. Multiple Column Subqueries - Returns one or more columns
+4. Correlated Subqueries - Returns one or more columns according to the main or the outer query, thus called a correlated subquery.
+5. Nested Subqueries - We have multiple subqueries within a query (like a nested loop).
